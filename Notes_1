@@ -4,3 +4,5 @@
 
 - we decide the inputs taht lead to a output, decide the kind of problem ( classificaion or regression) , decide an algorithm and then apply it on features to get the label.
 
+- K nearest neigbour algorthm: Data that are nearby or similar will most probably belong to the same set
+
