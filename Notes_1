@@ -1,4 +1,4 @@
--Two major types of problems in machine learning. Classification Problem and Regression Problem. Classification problem the value of output belongs to a discrete set ( like true or false or 50 or will not rain etc). Regression problem output belongs to a continous set (like between 2 and 10 ),
+-Two major types of problems in machine learning depending on type of output. Classification Problem and Regression Problem. Classification problem the value of output belongs to a discrete set ( like true or false or 50 or will not rain etc). Regression problem output belongs to a continous set (like between 2 and 10 ),
 
 - All inputs to a machine learning problem solution are called as features while the output values is called as label.
 
