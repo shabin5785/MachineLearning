@@ -2,3 +2,5 @@
 
 - All inputs to a machine learning problem solution are called as features while the output values is called as label.
 
+- we decide the inputs taht lead to a output, decide the kind of problem ( classificaion or regression) , decide an algorithm and then apply it on features to get the label.
+
